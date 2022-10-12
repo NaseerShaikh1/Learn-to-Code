@@ -1,0 +1,1 @@
+In this code Alert function is manipulated
